@@ -127,6 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
 # Added a practice folder
 practice/
+=======
+practice/
+DataDictionaryBuildingPermit.xlsx
+Files/
+>>>>>>> mybranch

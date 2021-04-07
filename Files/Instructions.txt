@@ -1,0 +1,11 @@
+For this challenge you're to use only Python or R. 
+
+You're to give insight using plots and minimal text.
+
+## I'm interested in how you handle NA's and the story your plot tells (EDA)
+### Limit your plots to 10 can be less but no more.
+
+Submit your code and report
+So I'm expecting 2 files
+
+cheers
